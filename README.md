@@ -5,7 +5,7 @@ This project turns your webcam into a smart controller where you can move the cu
 
 ---
 
-## ✨ Features
+## Features
 - 🎯 **Hand Tracking** in real-time using MediaPipe.  
 - 🖱️ **Mouse Control**: Move cursor smoothly across the screen.  
 - 👆 **Left Click**: Triggered when thumb and index finger touch.  
@@ -14,7 +14,7 @@ This project turns your webcam into a smart controller where you can move the cu
 
 ---
 
-## 🚀 How It Works
+## How It Works
 - **Index + Thumb** → Left Click.  
 - **Middle + Thumb** → Right Click.  
 - **Palm movement** → Cursor movement.  
@@ -22,7 +22,7 @@ This project turns your webcam into a smart controller where you can move the cu
 
 ---
 
-## 🛠️ Installation
+## Installation
 Clone the repo and install the required dependencies:
 
 ```bash
