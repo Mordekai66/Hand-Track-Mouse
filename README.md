@@ -1,4 +1,4 @@
-# HandTrackMouse 🖐️➡️🖱️
+# AI virtual mouse 🖐️➡️🖱️
 
 Control your computer mouse with your **hand gestures** using **OpenCV**, **MediaPipe**, and **Python**.  
 This project turns your webcam into a smart controller where you can move the cursor, left-click, and right-click — all without touching a mouse.  
@@ -26,6 +26,6 @@ This project turns your webcam into a smart controller where you can move the cu
 Clone the repo and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/HandTrackMouse.git
-cd HandTrackMouse
+git clone https://github.com/Mordekai66/AI-virtual-mouse.git
+cd AI-virtual-mouse
 pip install -r requirements.txt
